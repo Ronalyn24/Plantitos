@@ -15,6 +15,10 @@
 - JavaScript (for basic interactivity)
 - GitHub Pages (for deployment)
 
+## 🌍 Live Demo
+🔗 [View Project](https://plantitos.netlify.app/) 
+
+
 
 ## 📥 How to Use
 1. Clone the repository:
